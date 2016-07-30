@@ -1,3 +1,0 @@
-this is a vimtest
-what can you do it 
-i can test what are you doing
